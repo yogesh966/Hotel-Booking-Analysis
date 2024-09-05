@@ -2,7 +2,7 @@
 
 Click on the following link to checkout the video presentation and the colab file.
 - [colab](https://colab.research.google.com/drive/1ykC2SYSOGjKJFe1DMUQhdhqo3DGt2-Fw?usp=sharing)
-- [Video]()
+- [Video](https://drive.google.com/file/d/13fvI06t8NENo9HZXWfivKo8ORBn2qMl5/view?usp=sharing)
 
 
 ---
@@ -96,6 +96,12 @@ Majority of the hotels booked are city hotel. Definitely need to spend the most 
 this is the best EDA that I did and memorable experience for me in this project.
 
 ---
+## Dataset Desription:
+
+![image](https://github.com/user-attachments/assets/0080486e-5c6a-445b-be97-f22628a506b1)
+![image](https://github.com/user-attachments/assets/ae6718eb-e23c-4e5a-b76c-af0fe03d2a42)
+
+
 
 ## Solution to Business Objective
 
